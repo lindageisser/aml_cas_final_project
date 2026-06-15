@@ -34,4 +34,8 @@ X different Jupyter-Notebooks are generated with purpose to
         ------------------------------------
         Load prepared data set and extract features from the latent space
         of a trained convolutional autoencoder per patch.
-        Train a random forest for patch-wise classification. 
+        Train a random forest for patch-wise classification.
+
+    -   05_kontas2017_Unet_Pixel:
+        ------------------------------------
+        Load prepared data set and train the U-Net.
